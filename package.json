@@ -1,0 +1,23 @@
+{
+  "name": "turn-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catvue/turn-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catvue/turn-server/issues"
+  },
+  "homepage": "https://github.com/catvue/turn-server#readme",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "node-turn": "0.0.4"
+  }
+}
